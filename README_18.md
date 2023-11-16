@@ -2,9 +2,10 @@
 
 i used bootstrap for this training in css and javascript 
 
-here is th screenshot from project
+here is the screenshot from project 
+
+![screenshot](خروجی.png)()
 
 
-![Uploading خروجی.png…]()
 
 
