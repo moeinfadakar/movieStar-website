@@ -1,19 +1,31 @@
-## what is this?
+<h2>MovieStar website  🏚 </h2>
 
-this is a JSON list of movies
-and a select tag that helps you to  choose your movie by year
+<p>
+Do you like Marvel, or are you following  "Attack on Titan"? Or maybe you enjoy new action movies? Well, this project will filter movies based on their release years!
+</p>
 
-## how could i mead it?
+<h3>Features 🔥</h3>
 
-i used bootstrap in this project [bootstrap] (https://getbootstrap.com/docs/3.4/css/)
+* Find movie faster  ✔
+* Eazy and Fast [Digikala](https://www.digikala.com/)  ✔
+* Well-designed User Interface & User Experience  ✔
 
- - - 
+<h3>Goals  🎯</h3>
 
-```
- this is a screenshot:
-```
-![screenshot](xp.png)()
+<p>Finding intersted movies</p>
 
+<h3>Tech 🚀</h3>
+
+<a>
+<img  src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" >
+<img  src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" >
+<img  src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" >
+</a>
+
+<h3>See Some image(s)</h3>
+<a>
+<img  src="www.png" >
+</a>
 
 
 
