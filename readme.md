@@ -7,7 +7,7 @@ Do you like Marvel, or are you following  "Attack on Titan"? Or maybe you enjoy 
 <h3>Features 🔥</h3>
 
 * Find movie faster  ✔
-* Eazy and Fast [Digikala](https://www.digikala.com/)  ✔
+* Eazy and Fast   ✔
 * Well-designed User Interface & User Experience  ✔
 
 <h3>Goals  🎯</h3>
